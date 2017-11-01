@@ -6,6 +6,10 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
+	<modules>
+		<module>Native</module>
+	</modules>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.zookeeper</groupId>
@@ -37,4 +41,5 @@
 			</plugin>
 		</plugins>
 	</build>
+
 </project>
