@@ -9,6 +9,7 @@
 	<modules>
 		<module>Native</module>
 		<module>ZkClient</module>
+		<module>Curator</module>
 	</modules>
 
 	<dependencies>
